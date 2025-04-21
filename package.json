@@ -1,0 +1,20 @@
+{
+  "name": "crazy-backend",
+  "version": "1.0.0",
+  "description": "something crazy crazy",
+  "keywords": [
+    "node",
+    "srijan"
+  ],
+  "license": "ISC",
+  "author": "Srijan Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
